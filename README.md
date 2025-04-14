@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rizzlebuck
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning to code through a bootcamp
-- 💞️ I’m looking to collaborate on teaching me
+- 🌱 I’m currently learning to code through a coding bootcamp
 - 📫 How to reach me aranda.nicholasb@gmail.com
 - 😄 Pronouns: He/Him
 
